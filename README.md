@@ -151,3 +151,12 @@ Our mission is to strengthen cybersecurity capabilities through modern technolog
   </p>
 
 </div>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Cyber-Shield-Team&theme=calm_pink&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Cyber-Shield-Team&theme=calm_pink&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Cyber-Shield-Team&theme=calm_pink&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Cyber-Shield-Team&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
