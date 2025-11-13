@@ -1,6 +1,10 @@
 <!-- ABOUT CYBERSHIELD TEAM — FULL VERSION -->
 <div align="center" style="margin-top: 8px;">
 
+  <!-- SMALL ONLINE IMAGE ADDED -->
+  <img src="https://img.icons8.com/fluency/48/000000/hacker.png"
+       width="55" style="margin-bottom:10px;"/>
+
   <!-- ICON -->
   <img src="https://img.icons8.com/external-flatart-icons-outline-flatarticons/344/external-cyber-security-security-flatart-icons-outline-flatarticons.png"
        width="120" style="border-radius:20px; box-shadow: 0 6px 18px rgba(0,0,0,0.20)"/>
@@ -35,18 +39,18 @@
 
   <div align="center" style="display:flex; flex-direction:column; gap:6px;">
 
-  <!-- TEAM LEADER -->
-  <p>
-    <img src="https://img.icons8.com/color/48/000000/crown.png" width="26" />
-    <strong>Mina Adel Kamel Dous</strong> — Team Leader / Cybersecurity Specialist
-  </p>
+    <!-- TEAM LEADER -->
+    <p>
+      <img src="https://img.icons8.com/color/48/000000/crown.png" width="26" />
+      <strong>Mina Adel Kamel Dous</strong> — Team Leader / Cybersecurity Specialist
+    </p>
 
-  <!-- TEAM MEMBERS -->
-  <p>👨🏻‍💻 <strong>Romany Emad Mekhaeel Atea</strong> — Front-End Developer</p>
-  <p>👩🏻‍💻 <strong>Fatma Alzahraa Mouhamed Ghonim</strong> — Firebase Developer</p>
-  <p>🛰️ <strong>Ahmed Mohamed Abdul Hakem</strong> — API Integration Specialist</p>
-  <p>🧪 <strong>Rahma Ehab Elfaraskory</strong> — Testing & Data Collection</p>
-  <p>📄 <strong>Ahmed Ali Hussein Awwad</strong> — Documentation & UI Support</p>
+    <!-- TEAM MEMBERS -->
+    <p>👨🏻‍💻 <strong>Romany Emad Mekhaeel Atea</strong> — Front-End Developer</p>
+    <p>👩🏻‍💻 <strong>Fatma Alzahraa Mouhamed Ghonim</strong> — Firebase Developer</p>
+    <p>🛰️ <strong>Ahmed Mohamed Abdul Hakem</strong> — API Integration Specialist</p>
+    <p>🧪 <strong>Rahma Ehab Elfaraskory</strong> — Testing & Data Collection</p>
+    <p>📄 <strong>Ahmed Ali Hussein Awwad</strong> — Documentation & UI Support</p>
 
   </div>
 
@@ -86,4 +90,3 @@
 ---
 
 [![](https://visitcount.itsvg.in/api?id=Cyber-Shield-Team&icon=0&color=0)](https://visitcount.itsvg.in)
-
