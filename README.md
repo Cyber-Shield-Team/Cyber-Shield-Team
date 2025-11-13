@@ -9,13 +9,10 @@
   <h1 style="margin:8px 0 0 0">🛡️ CyberShield Team</h1>
   <!-- ABOUT TEAM -->
   <p align="center" style="max-width:800px; font-size:16px; color:#333;">
-    <strong>CyberShield Team</strong> is a specialized cybersecurity group formed under a Ministry Program.
-    <br/>
-    The team focuses on building cyber defense systems, malware analysis tools, digital forensics workflows,
-    and real-world security automation solutions.
-    <br/><br/>
-    As a team, we work together on threat intelligence, SOC operations, DFIR, and secure software development.
-    Our mission is to enhance national cybersecurity capabilities through modern technologies and hands-on projects.
+    <strong>CyberShield Team</strong> CyberShield Team is a specialized cybersecurity group focused on building cyber-defense systems, malware analysis tools, digital forensics workflows, and real-world security automation solutions.
+
+As a team, we work together on threat intelligence, SOC operations, DFIR, and secure software development.
+Our mission is to strengthen cybersecurity capabilities through modern technologies and hands-on projects.
   </p>
 
   <!-- BADGES -->
