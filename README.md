@@ -7,8 +7,6 @@
 
   <!-- TEAM NAME -->
   <h1 style="margin:8px 0 0 0">🛡️ CyberShield Team</h1>
-  <h2 style="margin:0; font-size:20px; color:#6C63FF;">Ministry Cybersecurity Project</h2>
-
   <!-- ABOUT TEAM -->
   <p align="center" style="max-width:800px; font-size:16px; color:#333;">
     <strong>CyberShield Team</strong> is a specialized cybersecurity group formed under a Ministry Program.
