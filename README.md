@@ -1,8 +1,7 @@
 <!-- CYBERSHIELD TEAM — CLEAN DARK THEME -->
 <div align="center" style="padding: 20px;">
 
-  <img src="https://img.icons8.com/external-flatart-icons-outline-flatarticons/344/external-cyber-security-security-flatart-icons-outline-flatarticons.png"
-       width="110" />
+
 
   <h1>🛡️ CyberShield Team</h1>
   <h3>Cybersecurity Project</h3>
