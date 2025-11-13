@@ -4,7 +4,8 @@
 
 
   <h1>🛡️ CyberShield Team</h1>
-  <h3>Cybersecurity Project</h3>
+  <h3>
+Malware Checker</h3>
 
   <p align="center" style="max-width:800px;">
     <strong>CyberShield Team</strong> is a collaborative cybersecurity group focused on threat intelligence,
