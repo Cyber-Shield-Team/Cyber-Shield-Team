@@ -1,81 +1,152 @@
-<!-- ABOUT CARD — FULL VERSION -->
+<!-- ABOUT CYBERSHIELD TEAM — FULL VERSION -->
 <div align="center" style="margin-top: 8px;">
 
   <!-- ICON -->
   <img src="https://img.icons8.com/external-flatart-icons-outline-flatarticons/344/external-cyber-security-security-flatart-icons-outline-flatarticons.png"
-       width="120" style="border-radius:20px; box-shadow: 0 6px 18px rgba(0,0,0,0.15)"/>
+       width="120" style="border-radius:20px; box-shadow: 0 6px 18px rgba(0,0,0,0.20)"/>
 
-  <!-- NAME -->
-  <h1 style="margin:6px 0 0 0">🛡️ CyberShield Team</h1>
-  <h2 style="margin:0; font-size:20px; color:#6C63FF;">Malware Detection by Hash Only</h2>
+  <!-- TEAM NAME -->
+  <h1 style="margin:8px 0 0 0">🛡️ CyberShield Team</h1>
+  <h2 style="margin:0; font-size:20px; color:#6C63FF;">Ministry Cybersecurity Project</h2>
 
-  <!-- ABOUT TEXT -->
-  <p align="center" style="max-width:780px; font-size:16px; color:#444;">
-    I'm <strong>Mina Adel</strong>, Cybersecurity Specialist & SOC Analyst.<br/>
-    Leader of the <strong>CyberShield Team</strong> — creators of the ministry project
-    <strong>"Malware Detection By Hash Only"</strong>.<br/>
-    Skilled in DFIR, Threat Hunting, Windows Investigation, Malware Analysis & Python Security Development.
+  <!-- ABOUT TEAM -->
+  <p align="center" style="max-width:800px; font-size:16px; color:#333;">
+    <strong>CyberShield Team</strong> is a specialized cybersecurity group formed under a Ministry Program.
+    <br/>
+    The team focuses on building cyber defense systems, malware analysis tools, digital forensics workflows,
+    and real-world security automation solutions.
+    <br/><br/>
+    As a team, we work together on threat intelligence, SOC operations, DFIR, and secure software development.
+    Our mission is to enhance national cybersecurity capabilities through modern technologies and hands-on projects.
   </p>
 
   <!-- BADGES -->
   <p>
-    <img src="https://img.shields.io/badge/SIEM-Splunk%20|%20QRadar%20|%20ELK-2c3e50?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Cybersecurity-Blue_Team-1f6feb?style=for-the-badge"/>
     <img src="https://img.shields.io/badge/DFIR-Investigations-14213d?style=for-the-badge"/>
-    <img src="https://img.shields.io/badge/Malware_Analysis-8d0801?style=for-the-badge"/>
-    <img src="https://img.shields.io/badge/Flask-Backend-black?style=for-the-badge"/>
-    <img src="https://img.shields.io/badge/Firebase-Auth/DB-orange?style=for-the-badge"/>
-    <img src="https://img.shields.io/badge/Python-🐍-14354C?style=for-the-badge&logo=python"/>
+    <img src="https://img.shields.io/badge/Threat_Intel-VirusTotal_&_MalwareBazaar-8d0801?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Backend-Flask-black?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Firebase-Auth/Firestore-orange?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Deployment-Vercel-00C853?style=for-the-badge"/>
   </p>
 
-  <!-- SOCIAL ICONS -->
-  <p align="center">
-    <a href="https://linkedin.com/in/mina-adel-kamel">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-    </a>
-    <a href="mailto:menaadel6432@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-    </a>
-    <a href="https://www.facebook.com/mina.adel.552529/">
-      <img src="https://img.shields.io/badge/Facebook-0a74da?style=for-the-badge&logo=facebook&logoColor=white"/>
-    </a>
-    <a href="https://www.instagram.com/minaadel09/">
-      <img src="https://img.shields.io/badge/Instagram-BB2A6A?style=for-the-badge&logo=instagram&logoColor=white"/>
-    </a>
-    <a href="https://portofolio-lilac-gamma.vercel.app/">
-      <img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge"/>
-    </a>
+  <!-- TEAM SECTION -->
+  <hr style="border:0; height:1px; background:#ddd; margin:30px 0;"/>
+
+  <h2>👥 CyberShield Team Members</h2>
+  <p style="max-width:800px; color:#222; font-size:15px;">
+    Below is the official team behind the <strong>“Malware Detection by Hash Only”</strong> project.
+  </p>
+
+  <div align="center" style="display:flex; flex-direction:column; gap:6px;">
+
+  <!-- TEAM LEADER -->
+  <p>
+    <img src="https://img.icons8.com/color/48/000000/crown.png" width="26" />
+    <strong>Mina Adel Kamel Dous</strong> — Team Leader / Cybersecurity Specialist
+  </p>
+
+  <!-- TEAM MEMBERS (LIST) -->
+  <p>👨🏻‍💻 <strong>Romany Emad Mekhaeel Atea</strong> — Front-End Developer</p>
+  <p>👩🏻‍💻 <strong>Fatma Alzahraa Mouhamed Ghonim</strong> — Firebase Developer</p>
+  <p>🛰️ <strong>Ahmed Mohamed Abdul Hakem</strong> — API Integration Specialist</p>
+  <p>🧪 <strong>Rahma Ehab Elfaraskory</strong> — Testing & Data Collection</p>
+  <p>📄 <strong>Ahmed Ali Hussein Awwad</strong> — Documentation & UI Support</p>
+
+  </div>
+
+  <!-- TEAM BADGES -->
+  <p style="margin-top:16px;">
+    <img src="https://img.shields.io/badge/Team_Size-6_Members-6C63FF?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Project_Type-Ministry_Official-00C853?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Category-Malware_Analysis-D62828?style=for-the-badge"/>
+  </p>
+
+  <hr style="border:0; height:1px; background:#ddd; margin:26px 0;"/>
+
+  <!-- PROJECT LINKS -->
+  <h2>🔗 Project Links</h2>
+
+  <p>
     <a href="https://malware-detection-by-hash-only.vercel.app/">
-      <img src="https://img.shields.io/badge/Project_Live-00C853?style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/LIVE_DEMO-00C853?style=for-the-badge&logo=vercel&logoColor=white"/>
+    </a>
+    <a href="https://github.com/Cyber-Shield-Team/Malware-Detection-by-Hash-Only">
+      <img src="https://img.shields.io/badge/GITHUB_REPO-171515?style=for-the-badge&logo=github&logoColor=white"/>
     </a>
   </p>
 
-  <!-- SECTION BREAK -->
-  <hr style="border: 0; height: 1px; background: #ddd; margin: 25px 0;"/>
+</div>
+<!-- ABOUT CYBERSHIELD TEAM — FULL VERSION -->
+<div align="center" style="margin-top: 8px;">
 
-  <!-- PROJECT SUMMARY -->
-  <h2>📌 About the Project</h2>
-  <p align="center" style="max-width:760px; color:#444;">
-    The <strong>Malware Detection By Hash Only</strong> project allows scanning
-    of MD5 / SHA1 / SHA256 hashes using<br/>
-    <strong>VirusTotal API</strong> + <strong>MalwareBazaar</strong> + <strong>Firebase Authentication & Firestore</strong>.
+  <!-- ICON -->
+  <img src="https://img.icons8.com/external-flatart-icons-outline-flatarticons/344/external-cyber-security-security-flatart-icons-outline-flatarticons.png"
+       width="120" style="border-radius:20px; box-shadow: 0 6px 18px rgba(0,0,0,0.20)"/>
+
+  <!-- TEAM NAME -->
+  <h1 style="margin:8px 0 0 0">🛡️ CyberShield Team</h1>
+  <h2 style="margin:0; font-size:20px; color:#6C63FF;">Ministry Cybersecurity Project</h2>
+
+  <!-- ABOUT TEAM -->
+  <p align="center" style="max-width:800px; font-size:16px; color:#333;">
+    <strong>CyberShield Team</strong> is a specialized cybersecurity group formed under a Ministry Program.
     <br/>
-    Built using <strong>Flask</strong>, <strong>Python</strong>, <strong>HTML</strong>, <strong>CSS</strong>, and deployed on <strong>Vercel</strong>.
+    The team focuses on building cyber defense systems, malware analysis tools, digital forensics workflows,
+    and real-world security automation solutions.
+    <br/><br/>
+    As a team, we work together on threat intelligence, SOC operations, DFIR, and secure software development.
+    Our mission is to enhance national cybersecurity capabilities through modern technologies and hands-on projects.
   </p>
 
-  <!-- FEATURES -->
-  <h3>✨ Key Features</h3>
-  <ul align="left" style="display:inline-block; text-align:left; max-width:600px;">
-    <li>🔐 Hash-based malware scanning (MD5 / SHA1 / SHA256)</li>
-    <li>🧬 VirusTotal + MalwareBazaar Integration</li>
-    <li>🔑 Secure Firebase Authentication</li>
-    <li>📊 Scan history stored in Firestore</li>
-    <li>🎨 Clean HTML/CSS/JS frontend</li>
-    <li>⚙️ Lightweight Flask backend API</li>
-    <li>☁️ Deployed on Vercel (Ministry Project)</li>
-  </ul>
+  <!-- BADGES -->
+  <p>
+    <img src="https://img.shields.io/badge/Cybersecurity-Blue_Team-1f6feb?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/DFIR-Investigations-14213d?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Threat_Intel-VirusTotal_&_MalwareBazaar-8d0801?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Backend-Flask-black?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Firebase-Auth/Firestore-orange?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Deployment-Vercel-00C853?style=for-the-badge"/>
+  </p>
 
-  <!-- LIVE & GITHUB -->
-  <p align="center">
+  <!-- TEAM SECTION -->
+  <hr style="border:0; height:1px; background:#ddd; margin:30px 0;"/>
+
+  <h2>👥 CyberShield Team Members</h2>
+  <p style="max-width:800px; color:#222; font-size:15px;">
+    Below is the official team behind the <strong>“Malware Detection by Hash Only”</strong> project.
+  </p>
+
+  <div align="center" style="display:flex; flex-direction:column; gap:6px;">
+
+  <!-- TEAM LEADER -->
+  <p>
+    <img src="https://img.icons8.com/color/48/000000/crown.png" width="26" />
+    <strong>Mina Adel Kamel Dous</strong> — Team Leader / Cybersecurity Specialist
+  </p>
+
+  <!-- TEAM MEMBERS (LIST) -->
+  <p>👨🏻‍💻 <strong>Romany Emad Mekhaeel Atea</strong> — Front-End Developer</p>
+  <p>👩🏻‍💻 <strong>Fatma Alzahraa Mouhamed Ghonim</strong> — Firebase Developer</p>
+  <p>🛰️ <strong>Ahmed Mohamed Abdul Hakem</strong> — API Integration Specialist</p>
+  <p>🧪 <strong>Rahma Ehab Elfaraskory</strong> — Testing & Data Collection</p>
+  <p>📄 <strong>Ahmed Ali Hussein Awwad</strong> — Documentation & UI Support</p>
+
+  </div>
+
+  <!-- TEAM BADGES -->
+  <p style="margin-top:16px;">
+    <img src="https://img.shields.io/badge/Team_Size-6_Members-6C63FF?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Project_Type-Ministry_Official-00C853?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Category-Malware_Analysis-D62828?style=for-the-badge"/>
+  </p>
+
+  <hr style="border:0; height:1px; background:#ddd; margin:26px 0;"/>
+
+  <!-- PROJECT LINKS -->
+  <h2>🔗 Project Links</h2>
+
+  <p>
     <a href="https://malware-detection-by-hash-only.vercel.app/">
       <img src="https://img.shields.io/badge/LIVE_DEMO-00C853?style=for-the-badge&logo=vercel&logoColor=white"/>
     </a>
