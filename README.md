@@ -8,10 +8,10 @@
 Malware Checker</h3>
 
   <p align="center" style="max-width:800px;">
-    <strong>CyberShield Team</strong> is a collaborative cybersecurity group focused on threat intelligence,
-    SOC operations, malware analysis, and DFIR workflows.
-    <br/><br/>
-    Our mission is to build practical cyber-defense tools using real-world security technologies.
+    <strong>CyberShield Team</strong> CyberShield Team is a specialized cybersecurity group focused on building cyber-defense systems, malware analysis tools, digital forensics workflows, and real-world security automation solutions.
+
+As a team, we work together on threat intelligence, SOC operations, DFIR, and secure software development.
+Our mission is to strengthen cybersecurity capabilities through modern technologies and hands-on projects.
   </p>
 
   <p>
